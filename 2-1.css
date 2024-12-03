@@ -1,0 +1,74 @@
+#companyLogo {
+    margin-left: 30px;
+}
+
+#products {
+    margin-left: 200px;
+    font-size: 25px;
+    color: black;
+}
+
+#services {
+    margin-left: 50px;
+    font-size: 25px;
+    color: black;
+}
+
+#resources {
+    margin-left: 50px;
+    font-size: 25px;
+    color: black;
+}
+
+#Offers {
+    margin-left: 50px;
+    font-size: 25px;
+    color: black;
+}
+
+#contactus {
+    display: inline-block;
+    background-color: #E9D7FE;
+    margin-left: 200px;
+    font-size: 25px;
+    padding: 12px;
+    border: 2px solid #AC00FF;
+    color: #AC00FF;
+    margin-top: 10px;
+}
+
+#h1 {
+    margin-top: 60px;
+    margin-left: 190px;
+    color: #323232;
+    font-size: 50px;
+}
+
+#p {
+    margin-left: 190px;
+    color: #323232;
+    font-size: 16px;
+}
+
+#joinnow {
+    display: inline-block;
+    margin-left: 190px;
+    background-color: #5C3BAE;
+    color: white;
+    padding: 15px 35px 15px 35px;
+}
+
+#Group {
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+#video {
+    color: #4D3491;
+    font-size: 18px;
+}
+
+#imagecontent {
+    width: 850px;
+    margin-left: 500px;
+}
