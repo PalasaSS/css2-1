@@ -35,6 +35,7 @@
     border: 2px solid #AC00FF;
     color: #AC00FF;
     margin-top: 10px;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 #h1 {
@@ -56,6 +57,7 @@
     background-color: #5C3BAE;
     color: white;
     padding: 15px 35px 15px 35px;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 #Group {
